@@ -1,0 +1,48 @@
+body {
+  background: #AEC3B0;
+}
+
+.jumbotron {
+	background-color: #EFF6E0;
+}
+
+.container img {
+	width: 100%;
+	height: 250px;
+}
+
+.card-text {
+  font-weight: normal;
+  color: #124559;
+  text-shadow: none;
+}
+
+.card-body ul li {
+	color: #124559;
+}
+
+.card {
+	background-color: #EFF6E0;
+}
+
+.card-img-top {
+  height: 200px;
+}
+
+.card-title {
+	text-align: center;
+	color: #124559;
+}
+
+footer h6 {
+  float: left;
+}
+
+footer section {
+  margin-right: 25%;
+}
+
+footer a {
+  float: right;
+  margin-right: 8%;
+}
